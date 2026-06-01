@@ -41,6 +41,6 @@ input{
   grid-template-rows: repeat(5, 1fr);
 }
 
-.buttons: 17th child{
-  grid-template-columns: 2fr;
+#clear {
+  grid-column: span 2;
 }
